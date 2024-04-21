@@ -1,4 +1,5 @@
 # Dataset Information:
+# ssaudyady
 The dataset consists of 303 rows and 14 columns with label Target. Data contains categorical as well as continuous data.
 # Data Cleansing: 
 There is only one column that contains null value in which only two rows have null value that can easily be dropped by removing NA function.
